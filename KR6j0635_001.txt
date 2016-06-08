@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:49.697337
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:41
 #+TITLE: 佛說如意摩尼陀羅尼經
 #+PROPERTY: CBETA_ID T21n1403
 #+PROPERTY: ID KR6j0635
